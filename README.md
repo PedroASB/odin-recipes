@@ -13,7 +13,7 @@ This was my first project using HTML and CSS. Many of the buttons on the website
 
 ## Live Demo
 
-**[Click here](https://pedroasb.github.io/odin-foundations/odin-recipes/)** to try out this project on browser.
+**[Click here](https://pedroasb.github.io/odin-recipes/)** to try out this project on browser.
 
 ## Screenshots
 
@@ -22,3 +22,9 @@ This was my first project using HTML and CSS. Many of the buttons on the website
 ![Screenshot of Homepage 2](./screenshots/homepage-2.png)
 
 ![Screenshot of Fish and Chips Page](./screenshots/fish-and-chips-page.png)
+
+## About the Project
+
+This project is part of the curriculum of [The Odin Project](https://www.theodinproject.com/). You can check out other projects that I've built in my [fullstack-journey](https://github.com/PedroASB/fullstack-journey) repository.
+
+**Note:** this project was originally part of a multi-project repository and was later split into its own repository. A git history filtering tool was used to preserve the original commit history.
